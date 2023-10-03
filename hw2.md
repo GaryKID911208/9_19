@@ -2,7 +2,6 @@
 
 ## 甘特圖
 
-### Mermaid
 ```mermaid
 gantt
     title 甘特圖
